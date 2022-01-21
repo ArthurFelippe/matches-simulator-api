@@ -17,37 +17,37 @@
      }
     },
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Premier League",
     "local": {
-      "nome": "Estádio Centenário",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "Old Traffod",
+      "imagem": "https://rainhasdodriblehome.files.wordpress.com/2020/04/20200429_191734.png?w=694"
     },
     "mandante":{
-      "nome": "Uruguay",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+      "nome": "Manchester United",
+      "forca": 5,
+      "imagem": "https://logodetimes.com/times/manchester-united-football-club/manchester-united-football-club-256.png"
     },
      "visitante":{
-      "nome": "Brasil",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Manchester City",
+      "forca": 4,
+      "imagem": "https://logodetimes.com/times/manchester-city-football-club/manchester-city-football-club-256.png"
      }
     },
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Premier League",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "Stamford Bridge",
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/05/Chelsea-novo-est%C3%A1dio-Stamford-Bridge.jpg"
     },
     "mandante":{
-      "nome": "Brasil",
+      "nome": "Chelsea",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://logodetimes.com/times/chelsea-football-club/chelsea-football-club-256.png"
     },
      "visitante":{
-      "nome": "Colombia",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+      "nome": "Tottenham",
+      "forca": 3,
+      "imagem": "https://logodetimes.com/times/tottenham-hotspur-football-club/tottenham-hotspur-football-club-256.png"
      }
     }
   ]
